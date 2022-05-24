@@ -1,3 +1,3 @@
 - 👋 Hola, soy Bryan Sanchez  
 - 👀 Soy diseñador visual, sin embargo desde siempre me he interesado por todo el tema del desarrollo, desde mi profesión he podido alimentar este gusto y he podido trabajar en aspectos como UI, UX, Maquetación web y ahora ultimo en Front-end y Back-end.
-- 🌱 Actualmente estoy aprendiendo más sobre React y Node.
+- 🌱 Actualmente estoy aprendiendo sobre React y Node.
